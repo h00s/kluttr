@@ -13,5 +13,12 @@ server:
   max_body_bytes: 0
   ip_extractor: direct
 
+database:
+  host: localhost
+  port: 5432
+  username: postgres
+  password: postgres
+  name: backend_test
+
 app:
   cors_allow_origins: "http://localhost:5173"
