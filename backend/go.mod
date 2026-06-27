@@ -5,7 +5,7 @@ go 1.26
 require (
 	github.com/go-raptor/middlewares/cors v1.0.7
 	github.com/go-raptor/middlewares/logger v1.0.5
-	github.com/go-raptor/raptor/v4 v4.2.1
+	github.com/go-raptor/raptor/v4 v4.2.5
 	github.com/lmittmann/tint v1.1.3
 )
 
